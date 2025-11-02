@@ -1,0 +1,11 @@
+{
+  "readableLineLength": false,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 91
+  },
+  "newFileLocation": "current"
+}

@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "02b35bb69a610a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff491173939d732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d07c6657dd8de6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80286/80286 Internal Architecture.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "80286 Internal Architecture"
+            }
+          },
+          {
+            "id": "4706bd636e5499fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80386/80386 Key Features and Architecture.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "80386 Key Features and Architecture"
+            }
+          },
+          {
+            "id": "797a8b1d5d9d5ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80386/The Intel 80386 - Dawn of 32-bit Computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Intel 80386 - Dawn of 32-bit Computing"
+            }
+          },
+          {
+            "id": "02be43a88aaea5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80286/Introduction to Protected Mode.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Protected Mode"
+            }
+          },
+          {
+            "id": "2498b50276cca713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80286/80286 Key Features and Operating Modes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "80286 Key Features and Operating Modes"
+            }
+          },
+          {
+            "id": "881f6f579c1edb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8086 Hardware interface/8086 Minimum Mode Operation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8086 Minimum Mode Operation"
+            }
+          },
+          {
+            "id": "c201b7a1f346b631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8086 Hardware interface/Common and Mode-Independent Pins.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common and Mode-Independent Pins"
+            }
+          },
+          {
+            "id": "e021299816f62b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8086 Hardware interface/8086 Pin Configuration and Operating Modes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8086 Pin Configuration and Operating Modes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ce4a5787ecdee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d65a857f5de2f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a1939b0d17500a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aef1b6e1a6eb73f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "67c27ed199b5d3d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5
+  },
+  "right": {
+    "id": "8107eb37c98efee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2e924517b19f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e89784a975a9ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "80286/Selectors and Descriptor Tables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Selectors and Descriptor Tables"
+            }
+          },
+          {
+            "id": "dd10eaed000f88a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Serial Communication/SPI Registers (SPCR, SPSR, SPDR).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SPI Registers (SPCR, SPSR, SPDR)"
+            }
+          },
+          {
+            "id": "8c3d98fea89aff83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e61bd6d9a0ec5e49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Serial Communication/SPI Registers (SPCR, SPSR, SPDR).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SPI Registers (SPCR, SPSR, SPDR)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "797a8b1d5d9d5ead",
+  "lastOpenFiles": [
+    "Assmebly/Untitled 1.base",
+    "Assmebly/Untitled.base",
+    "Assmebly/Advanced Assembly Concepts.md",
+    "Assmebly/Bitwise Logic and Shift Operations.md",
+    "Assmebly/Looping Structures.md",
+    "Assmebly/Parameter Passing and Recursion.md",
+    "Assmebly/Procedures and the CALL RET Pattern.md",
+    "Assmebly/Program Structure and Memory Models.md",
+    "Assmebly/The 8086 Programmer's Model.md",
+    "Assmebly/The Stack - PUSH and POP.md",
+    "Assmebly/Variables and Data Definition.md",
+    "Assmebly/Advanced Arithmetic - MUL and DIV.md",
+    "Assmebly/Arrays and Advanced Addressing.md",
+    "Assmebly/Basic Input and Output (INT 21H).md",
+    "80386/80386 Address Translation - The Full Simulation.md",
+    "80386/80386 Register Set.md",
+    "80386/The Intel 80386 - Dawn of 32-bit Computing.md",
+    "80386/80386 Key Features and Architecture.md",
+    "80286/The Intel 80286(index).md",
+    "80286/Introduction to Protected Mode.md",
+    "80286/80286 Register Set.md",
+    "80286/80286 Internal Architecture.md",
+    "80286/80286 Key Features and Operating Modes.md",
+    "8086 Addressing Modes/8086 General Instruction Format.md",
+    "8086 Hardware interface/Simulating an 8086 Memory Read Cycle.md",
+    "8086 Hardware interface/8086 Hardware Interface and Pinout.md",
+    "8086 Hardware interface/8086 Minimum Mode Operation.md",
+    "Pasted image 20251016003602.png",
+    "Timer Latest",
+    "80386",
+    "8086 Interrupts",
+    "80286",
+    "Assmebly/Untitled",
+    "Assmebly",
+    "8086 Addressing Modes",
+    "8086 Memory",
+    "8086 Hardware interface",
+    "Pasted image 20251013013524.png",
+    "Pasted image 20251013004021.png",
+    "Pasted image 20251013004052.png",
+    "Pasted image 20251013004028.png",
+    "1351304.png"
+  ]
+}

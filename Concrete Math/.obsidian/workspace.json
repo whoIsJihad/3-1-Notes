@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "b29445a9fe67794c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdbb245ab29fb7ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2ec3cdc91d1bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HT/Normal Distribution E and VAR calc.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normal Distribution E and VAR calc"
+            }
+          },
+          {
+            "id": "59477534696e48d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/Shoe Shine Shop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shoe Shine Shop"
+            }
+          },
+          {
+            "id": "d25c9ab3dc4d94cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/📐 MM1N Queueing Model - Performance Metrics (L, W).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📐 MM1N Queueing Model - Performance Metrics (L, W)"
+            }
+          },
+          {
+            "id": "62520df068bb452d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/📝 MM1N Queueing Model  Steady-State Probability.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 MM1N Queueing Model  Steady-State Probability"
+            }
+          },
+          {
+            "id": "e93e08a777a54f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/📝 MM1N Queueing Model  Steady-State Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 MM1N Queueing Model  Steady-State Probability"
+            }
+          },
+          {
+            "id": "a5cf53bf7bdbd77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/Queing theory Introduction - Easiest version.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queing theory Introduction - Easiest version"
+            }
+          },
+          {
+            "id": "e5cbdc15c11c9a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/CTMC first lecture.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTMC first lecture"
+            }
+          },
+          {
+            "id": "a0d1ebcabd078c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/Distribution of Inter arrival Time (L10).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distribution of Inter arrival Time (L10)"
+            }
+          },
+          {
+            "id": "7e494d3658f0be09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/Post Office Problem.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post Office Problem"
+            }
+          },
+          {
+            "id": "9dd1cb828be0e8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSD/Distribution of Inter arrival Time (L10).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distribution of Inter arrival Time (L10)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4649eb6020651505",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbf84638ecaeae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f3a0a8eb99ef63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bc085ca3ab4a338",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5823b6b4a8f3ac07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5086555480957,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c3b1a0f620f776ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d938de34e8e90622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77226352f1aabee9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MSD/Post Office Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Post Office Problem"
+            }
+          },
+          {
+            "id": "fe534b4fd9b4002d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MSD/Main Index -  Probability, Statistics, and Stochastic Processes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main Index -  Probability, Statistics, and Stochastic Processes"
+            }
+          },
+          {
+            "id": "0c774849c53c8b92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a89497b03a99b3d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MSD/Main Index -  Probability, Statistics, and Stochastic Processes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main Index -  Probability, Statistics, and Stochastic Processes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "db2ec3cdc91d1bdf",
+  "lastOpenFiles": [
+    "MSD/MAP and ML Hypotheses (Easier).md",
+    "MSD/Compound Random Variable Variance.md",
+    "MSD/Move to Front -GPT.md",
+    "MSD/Compound Random Variable Expectation.md",
+    "HT/L 16.md",
+    "MSD/QS with Bulk Service.md",
+    "MSD/Main Index -  Probability, Statistics, and Stochastic Processes.md",
+    "MSD/06_Advanced_Stochastics_and_Bayes.md",
+    "MSD/Shoe Shine Shop.md",
+    "MSD/📐 MM1N Queueing Model - Performance Metrics (L, W).md",
+    "MSD/📝 MM1N Queueing Model  Steady-State Probability.md",
+    "MSD/Queing theory Introduction - Easiest version.md",
+    "MSD/Queing theory.md",
+    "MSD/CTMC first lecture.md",
+    "MSD/Distribution of Inter arrival Time (L10).md",
+    "MSD/Post Office Problem.md",
+    "MSD/Exponential Failure rate comparison.md",
+    "MSD/Easier Notes on Markov Chain - Initial two lectures  on MSD.md",
+    "MSD/Expected time in Transient States.md",
+    "MSD/01_Expectation_and_Inequalities.md",
+    "HT/Normal Distribution E and VAR calc.md",
+    "HT/Index.md",
+    "MSD/Z test.md",
+    "MSD/02_Statistical_Inference_and_Estimation.md",
+    "MSD/Hypothesis Testing ( Intuition).md",
+    "MSD/CI, Level of Significance , Hypothesis Testing.md",
+    "MSD.zip",
+    "HT.zip",
+    "Pasted image 20251027003930.png",
+    "MSD",
+    "HT"
+  ]
+}
