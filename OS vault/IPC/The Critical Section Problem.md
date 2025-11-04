@@ -40,4 +40,4 @@ Any robust solution to the critical section problem must satisfy four conditions
 4. **No Assumptions:** The solution must not make any assumptions about relative process speeds or the number of CPUs.
     
 
-**Links:** [[Early Solutions for Mutual Exclusion]], [[Interprocess Communication and Synchronization]]
+**Links:** [[Early Solutions for Mutual Exclusion]], [[Interprocess Communication and Synchronization (Index)]]

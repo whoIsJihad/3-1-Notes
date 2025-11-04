@@ -121,7 +121,3 @@ int fd2 = dup(fd);
     
 
 ---
-
-If you want, I can **draw a tiny ASCII diagram showing fd table + system-wide open file table + inode table for multiple processes opening the same file** — that usually clears up all confusion at once.
-
-Do you want me to do that next?

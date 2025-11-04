@@ -19,7 +19,8 @@ These notes cover the most common RAID levels, evaluating each on its capacity, 
 ### Summary
 
 - [[RAID Levels Comparison]]
-    
+-[[ RAID full summary]]
+- 
 
 ### Related Topics
 

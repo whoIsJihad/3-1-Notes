@@ -29,7 +29,7 @@ This solution is called a **policy**.
 
 ### How Rewards Shape the Policy
 
-The optimal policy $\pi^*$ is _extremely_ sensitive to the [[Utility and Rewards (Discounting)|Reward Model $R(s)$]]. The agent will do _whatever_ it takes to maximize its expected utility.
+The optimal policy $\pi^*$ is _extremely_ sensitive to the [[Utility and Rewards (Discounting)|Reward Model R(s)]]. The agent will do _whatever_ it takes to maximize its expected utility.
 
 - **Case 1:** $R(s) = -0.04$ **(Slightly painful life)**
     

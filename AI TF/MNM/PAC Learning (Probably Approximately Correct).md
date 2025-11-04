@@ -15,7 +15,7 @@
 
 Any hypothesis $h$ that is _consistent_ with a _sufficiently large_ set of training examples is **unlikely to be seriously wrong**. Such a hypothesis must be **Probably Approximately Correct (PAC)**.
 
-- **Approximately Correct:** The generalization error is low. `error(h) <= \epsilon` (for some small $\epsilon$).
+- **Approximately Correct:** The generalization error is low. $error(h) <= \epsilon$ (for some small $\epsilon$).
     
 - **Probably:** This holds with high probability $1 - \delta$ (for some small $\delta$).
     
@@ -24,7 +24,7 @@ Any hypothesis $h$ that is _consistent_ with a _sufficiently large_ set of train
 
 PAC learning allows us to calculate the number of examples $N$ (sample complexity) needed to guarantee this.
 
-We want to ensure that the probability of a "bad" hypothesis (one with `error(h) > \epsilon`) being consistent with $N$ examples is very low (less than $\delta$).
+We want to ensure that the probability of a "bad" hypothesis (one with $error(h) > \epsilon$) being consistent with $N$ examples is very low (less than $\delta$).
 
 The probability of _one_ bad hypothesis $h_b$ being consistent with $N$ examples is $\le (1 - \epsilon)^N$.
 

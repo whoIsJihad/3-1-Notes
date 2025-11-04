@@ -26,4 +26,4 @@ A **process** is an active, dynamic entity. It is an _instance_ of a program tha
 
 You can have a single program (e.g., `firefox.exe`) correspond to multiple, separate processes if you open several instances of the application. Each process has its own independent state.
 
-**Links:** [[Processes and Threads]], [[Process Address Space]]
+**Links:** [[Processes and Threads (index)]], [[Process Address Space]]

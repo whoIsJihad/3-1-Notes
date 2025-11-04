@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Aura",
-  "theme": "obsidian",
-  "baseFontSize": 17
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "accentColor": "#ce19e6"
 }

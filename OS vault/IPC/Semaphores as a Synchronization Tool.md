@@ -13,3 +13,4 @@ This collection of notes provides a deep dive into the definition, operation, an
 - [[The Producer-Consumer Problem Solved with Semaphores]]
     
 - [[Practical Applications and Patterns of Semaphores]]
+- [[TF question 22-23 Semaphore ]]
